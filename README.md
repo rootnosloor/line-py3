@@ -40,5 +40,4 @@ From pip using the following command:
 $ pip install linepy --upgrade
 ```
 
-## Author
-Fadhiil Rachman / [@fadhiilrachman](https://www.instagram.com/fadhiilrachman)
+
